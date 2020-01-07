@@ -17,6 +17,7 @@ void main() {
 //  debugPaintLayerBordersEnabled = true;
 //  debugProfilePaintsEnabled = true;
 //  debugRepaintRainbowEnabled = true;
+  print("123");
   runApp(MyApp());
   // 透明状态栏
   if (Platform.isAndroid) {
